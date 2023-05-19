@@ -1,0 +1,14 @@
+.cartaProyecto {
+    margin: auto;
+    margin-top: 60px;
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    box-shadow: 5px 0px 5px 2px;
+    transition: 1.4s;
+}
+
+.cartaProyecto:hover {
+    background-color: rgb(212, 212, 212);
+    transform: scale(1.12);
+}
