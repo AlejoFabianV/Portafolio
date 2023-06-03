@@ -1,0 +1,24 @@
+footer{
+    background-color: #252444;
+    padding: 10px 0 20px 0;
+}
+
+footer p{
+    color: #5c5c9a;
+}
+
+footer div{
+    width: 830px;
+    margin: auto;
+}
+
+footer div p{
+    display: inline;
+    margin: 0 30px;
+}
+
+footer div p a{
+    color: #5c5c9a;
+    text-decoration: none;
+}
+
