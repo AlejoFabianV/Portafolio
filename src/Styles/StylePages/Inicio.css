@@ -1,0 +1,29 @@
+.backGroundInicio{
+    height: 808px;
+}
+
+.backGroundImg{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    float: right;
+    margin-top: 28px;
+}
+
+.backGroundImg img{
+    width: 300px;
+    height: 300px;
+}
+
+.containerInicio{
+    padding-top: 240px;
+}
+
+.titleWelcome{
+    color: rgb(36, 36, 36);
+    font-size: 90px;
+    display: flex;
+    margin: 0;
+    padding-left: 250px;
+    margin-right: 700px;
+}
