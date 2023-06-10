@@ -4,7 +4,8 @@ import '../Styles/StylePages/Inicio.css'
 const SobreMi = () => {
     return (
         <section>
-            <p>esta es la seccion sobre mi</p>
+            <article>este es mi presentacion</article>
+            <article>las tecnologias que se</article>
         </section>
     );
 }

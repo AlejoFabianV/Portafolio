@@ -1,29 +1,27 @@
 .backGroundInicio{
     height: 808px;
+    background-image: url(../../Img/merry.jpg);
+    background-position-y: center;
 }
 
 .backGroundImg{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     display: flex;
     float: right;
-    margin-top: 28px;
+    margin-top: 318px;
 }
 
 .backGroundImg img{
-    width: 300px;
-    height: 300px;
-}
-
-.containerInicio{
-    padding-top: 240px;
+    width: 250px;
+    height: 250px;
 }
 
 .titleWelcome{
     color: rgb(36, 36, 36);
     font-size: 90px;
     display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
     margin: 0;
-    padding-left: 250px;
-    margin-right: 700px;
 }
