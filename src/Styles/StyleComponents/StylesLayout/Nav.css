@@ -1,5 +1,5 @@
 nav{
-    background-color: #252444;
+    background-color:  #146182;
 }
 nav ul{
     list-style: none;
@@ -13,7 +13,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #5c5c9a;
+    color: #122a42;
     text-decoration: none;
     display: block;
     padding: 8px;
@@ -21,9 +21,9 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    background-color: #736f8f;
+    background-color: #20dad8;
 }
 
 nav ul li a.active{
-    background-color: #9a95bc;
+    background-color: #1f9ecd;
 }

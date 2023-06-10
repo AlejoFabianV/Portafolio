@@ -1,10 +1,10 @@
 footer{
-    background-color: #252444;
+    background-color:  #146182;
     padding: 10px 0 20px 0;
 }
 
 footer p{
-    color: #5c5c9a;
+    color: #122a42;
 }
 
 footer div{
@@ -18,7 +18,7 @@ footer div p{
 }
 
 footer div p a{
-    color: #5c5c9a;
+    color: #122a42;
     text-decoration: none;
 }
 
