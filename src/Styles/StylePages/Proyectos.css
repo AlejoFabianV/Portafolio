@@ -1,14 +1,22 @@
+.backGroundProyectos{
+    background-image: url(../../Img/olasBack\ \(2\).jpg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px 0;
+}
+
 .cartaProyecto {
-    margin: 25px auto;
-    width: 600px;
+    margin: 15px 30px;
+    width: 500px;
     height: 400px;
     border: 2px solid black;
     background-color: #ffffff;
     box-shadow: 5px 0px 5px 2px;
-    transition: 1.4s;
+    transition: 1s;
 }
 
 .cartaProyecto:hover {
     background-color: #faf9fb;
-    transform: scale(1.12);
+    transform: scale(1.06);
 }
