@@ -1,9 +1,9 @@
 import React from "react";
-import '../Styles/StylePages/Inicio.css'
+import '../Styles/StylePages/SobreMi.css'
 
 const SobreMi = () => {
     return (
-        <section>
+        <section className="backGroundSobreMi">
             <article>este es mi presentacion</article>
             <article>las tecnologias que se</article>
         </section>

@@ -3,7 +3,7 @@ import '../Styles/StylePages/Proyectos.css'
 
 const Proyectos = () => {
     return (
-        <section>
+        <section className="backGroundProyectos">
             <div className="cartaProyecto">
                 <h1>Proyecto 1</h1>
                 <h3>Tecnologias utilizadas: </h3>
@@ -28,6 +28,18 @@ const Proyectos = () => {
                 <p>descripcion del Proyecto</p>
                 <p>Repositorio en GitHub: </p>
             </div>   
+            <div className="cartaProyecto">
+                <h1>Proyecto 5</h1>
+                <h3>Tecnologias utilizadas: </h3>
+                <p>descripcion del Proyecto</p>
+                <p>Repositorio en GitHub: </p>
+            </div>  
+            <div className="cartaProyecto">
+                <h1>Proyecto 6</h1>
+                <h3>Tecnologias utilizadas: </h3>
+                <p>descripcion del Proyecto</p>
+                <p>Repositorio en GitHub: </p>
+            </div>  
         </section>
     );
 }
