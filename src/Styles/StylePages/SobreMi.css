@@ -1,17 +1,39 @@
 .backGroundSobreMi{
-    height: 1600px;
+    height: 975px;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.presentation, .tecnologies{
+.presentation, .containerTecnologies{
     width: 900px;
-    height: 750px;
+    height: 420px;
     background-color: #146182;
     color: white;
-    margin-top: 25px;
+    margin-top: 30px;
     border-radius: 2%;
     padding: 8px 12px;
+}
+
+.tecnologies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 6px;
+}
+
+.containerTecnologies .tecnologies div{
+    width: 120px;
+    margin: 14px;
+}
+
+.tecnologies img{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.tecnologies h4{
+    margin: 0;
 }
