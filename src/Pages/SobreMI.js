@@ -1,7 +1,7 @@
 import React from "react";
 import '../Styles/StylePages/SobreMi.css'
 import sqlServerImg from '../Img/SQLserver.png'
-import dotnet from '../Img/dotnet.png'
+// import dotnet from '../Img/dotnet.png'
 
 const SobreMi = () => {
     return (
@@ -15,6 +15,10 @@ const SobreMi = () => {
                 <h3>Tecnologias que manejo</h3>
                 <div className="tecnologies">
                     <div>
+                        <img src={sqlServerImg} alt="ImgTecnologie" />
+                        <h4>SQL Server</h4>
+                    </div>
+                    {/* <div>
                         <img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' alt="ImgTecnologie" />
                         <h4>JavaScript</h4>
                     </div>
@@ -25,10 +29,6 @@ const SobreMi = () => {
                     <div>
                         <img src='https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png' style={{background:'black'}} alt="ImgTecnologie" />
                         <h4>MySQL</h4>
-                    </div>
-                    <div>
-                        <img src={sqlServerImg} alt="ImgTecnologie" />
-                        <h4>SQL Server</h4>
                     </div>
                     <div>
                         <img src='https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png' alt="ImgTecnologie" />
@@ -61,7 +61,7 @@ const SobreMi = () => {
                     <div>
                         <img src={dotnet} alt="ImgTecnologie" />
                         <h4>.NET</h4>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>
