@@ -1,6 +1,6 @@
 import React from "react";
 import '../Styles/StylePages/SobreMi.css'
-import SQLserver from '../Img/SQLserver.png'
+import SQLServerimg from '../Img/SQLserver.png'
 import dotnet from '../Img/dotnet.png'
 
 const SobreMi = () => {
@@ -27,7 +27,7 @@ const SobreMi = () => {
                         <h4>MySQL</h4>
                     </div>
                     <div>
-                        <img src={SQLserver} alt="ImgTecnologie" />
+                        <img src={SQLServerimg} alt="ImgTecnologie" />
                         <h4>SQL Server</h4>
                     </div>
                     <div>
