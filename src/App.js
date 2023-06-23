@@ -1,12 +1,12 @@
 import './App.css';
 import { BrowserRouter , Routes , Route } from 'react-router-dom';
 
-import Nav from './Components/Layout/Nav';
-import Footer from './Components/Layout/Footer';
+import Nav from './components/layout/Nav';
+import Footer from './components/layout/Footer';
 
-import Inicio from './Pages/Inicio';
-import SobreMi from './Pages/SobreMi';
-import Proyectos from './Pages/Proyectos';
+import Inicio from './pages/Inicio';
+import SobreMi from './pages/SobreMi';
+import Proyectos from './pages/Proyectos';
 
 function App() {
   return (

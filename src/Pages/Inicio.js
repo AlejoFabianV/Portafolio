@@ -1,5 +1,5 @@
 import React from "react";
-import '../Styles/StylePages/Inicio.css'
+import '../styles/stylePages/Inicio.css'
 
 const Inicio = () => {
     return (

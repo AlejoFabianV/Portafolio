@@ -1,5 +1,5 @@
 import React from "react";
-import '../Styles/StylePages/Proyectos.css'
+import '../styles/stylePages/Proyectos.css'
 import previewProyecto1 from '../Img/previewProyecto/Los-diez-anillos-preview.png'
 
 const Proyectos = () => {

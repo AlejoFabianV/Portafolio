@@ -1,5 +1,5 @@
 import React from "react";
-import '../Styles/StylePages/SobreMi.css'
+import '../styles/stylePages/SobreMi.css'
 import sqlServerImg from '../Img/SQLserver.png'
 import dotnet from '../Img/dotnet.png'
 
