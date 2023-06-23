@@ -1,0 +1,29 @@
+nav{
+    background-color:  #146182;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+}
+
+nav ul li{
+    flex-grow: 0.05;
+}
+
+nav ul li a{
+    color: #122a42;
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    text-align: center;
+}
+
+nav ul li a:hover{
+    background-color: #20dad8;
+}
+
+nav ul li a.active{
+    background-color: #1f9ecd;
+}

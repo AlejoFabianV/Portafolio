@@ -1,0 +1,15 @@
+.backGroundInicio{
+    height: 808px;
+    background-image: url(../../Img/olasBack.jpg);
+    background-position-y: center;
+}
+
+.titleWelcome{
+    /* color: rgb(36, 36, 36); */
+    color:  #2f3c88;
+    font-size: 90px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    margin: 0;
+}
