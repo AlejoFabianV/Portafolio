@@ -23,7 +23,7 @@ const SobreMi = () => {
                         <h4>React.js</h4>
                     </div>
                     <div>
-                        <img src='https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png' style={{background: 'black'}} alt="ImgTecnologie" />
+                        <img src='https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png' style={{background:'black'}} alt="ImgTecnologie" />
                         <h4>MySQL</h4>
                     </div>
                     <div>
