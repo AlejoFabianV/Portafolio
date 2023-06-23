@@ -15,8 +15,8 @@ function App() {
         <Nav></Nav>
         <Routes>
           <Route path='/' element={<Inicio />} />
-          <Route path='/SobreMi' element={<SobreMi />} />
-          <Route path='/Proyectos' element={<Proyectos />} />
+          <Route path='SobreMi' element={<SobreMi />} />
+          <Route path='Proyectos' element={<Proyectos />} />
         </Routes>
       </BrowserRouter>
       <Footer></Footer>
