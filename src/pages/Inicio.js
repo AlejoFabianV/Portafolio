@@ -7,10 +7,8 @@ const Inicio = () => {
             <div className="containerInicio">
                 <h1 className="titleWelcome">Alejo Verhagen</h1>
                 <h1 className="titleWelcome">Developer Full Stack</h1>
+                <a className="downloadCV" href='./Verhagen-Alejo-CV.pdf' download>Descargar CV</a>
             </div>
-            {/* <div className="backGroundImg">
-                <img src={luffyImage} alt="..."/>
-            </div> */}
         </section>
     );
 }
