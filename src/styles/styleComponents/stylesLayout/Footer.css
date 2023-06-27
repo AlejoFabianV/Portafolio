@@ -1,10 +1,6 @@
 footer{
     background-color:  #146182;
-    padding: 10px 0 20px 0;
-}
-
-footer p{
-    color: #122a42;
+    padding: 30px 0 30px 0;
 }
 
 footer div{
@@ -13,6 +9,7 @@ footer div{
 }
 
 footer div p{
+    color: #122a42;
     display: inline;
     margin: 0 30px;
 }
