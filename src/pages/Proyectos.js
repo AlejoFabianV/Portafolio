@@ -1,6 +1,6 @@
 import React from "react";
 import '../styles/stylePages/Proyectos.css'
-import previewProyecto1 from '../Img/previewProyecto/Los-diez-anillos-preview.png'
+import previewProyecto1 from '../Img/previewProyecto/Los-diez-anillos.png'
 
 const Proyectos = () => {
     return (
