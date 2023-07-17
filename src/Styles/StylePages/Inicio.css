@@ -26,10 +26,13 @@
         justify-content: center;
     }
     .backGroundInicio{
-        height: 500px;
+        height: 680px;
     }
     .titleWelcome{
         font-size: 70px;  
         padding: 0;
+    }
+    .downloadCV{
+        padding-right: 60px;
     }
 }
