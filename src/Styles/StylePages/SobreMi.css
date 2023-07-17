@@ -32,3 +32,13 @@
 .tecnologies h4{
     margin: 0;
 }
+
+@media screen and (max-width: 900px){
+    .backGroundSobreMi{
+        height: 800px;
+    }
+    .presentation{
+        width: 600px;
+        height: 700px;
+    }
+}
