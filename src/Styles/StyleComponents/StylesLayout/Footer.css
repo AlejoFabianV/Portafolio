@@ -19,3 +19,13 @@ footer div p a{
     text-decoration: none;
 }
 
+@media screen and (max-width: 750px){
+    footer{
+        max-width: 100%;
+    }
+    footer div p{
+        display: flex;
+        margin-left: 40px;
+    }
+}
+
