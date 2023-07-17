@@ -5,21 +5,31 @@
 }
 
 .titleWelcome{
-    color:  #2f3c88;
+    color:  rgb(16, 4, 190);
     font-size: 90px;
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 50px;
+    float: right;
+    padding-right: 120px;
     margin: 0;
 }
 
 .downloadCV{
     width: 250px;
-    color:  #2f3c88;
+    color:  rgb(16, 4, 190);
     font-size: 40px;
-    display: flex;
     float: right;
-    padding-right: 50px;
+    padding-right: 120px;
     margin: 0;
 }
 
+@media screen and (max-width: 500px){
+    .containerInicio{
+        justify-content: center;
+    }
+    .backGroundInicio{
+        height: 500px;
+    }
+    .titleWelcome{
+        font-size: 70px;  
+        padding: 0;
+    }
+}

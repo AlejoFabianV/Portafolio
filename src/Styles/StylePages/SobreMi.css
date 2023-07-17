@@ -1,5 +1,5 @@
 .backGroundSobreMi{
-    height: 600px;
+    height: 650px;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@
 
 .presentation{
     width: 900px;
-    height: 510px;
+    height: 560px;
     background-color: #146182;
     color: white;
     margin-top: 30px;
@@ -20,7 +20,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 6px;
+}
+
+.tecnologies div{
+    padding: 14px 6px;
 }
 
 .tecnologies img{
@@ -40,5 +43,23 @@
     .presentation{
         width: 600px;
         height: 700px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .backGroundSobreMi{
+        height: 680px;
+    }
+    .presentation{
+        width: 350px;
+        height: 600px;
+    }
+    .tecnologies img{
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+    }
+    .tecnologies h4{
+        font-size: 12px;
     }
 }

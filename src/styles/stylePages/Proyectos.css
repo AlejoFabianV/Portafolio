@@ -26,3 +26,16 @@
     height: 420px;
     object-fit: cover;
 }
+
+@media screen and (max-width: 500px){
+    .cartaProyecto {
+        margin: 15px 25px;
+        width: 350px;
+        height: 470px;
+    }
+    .cartaProyecto img{
+        width: 330px;
+        height: 250px;
+    }
+    
+}
