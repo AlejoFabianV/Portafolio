@@ -7,12 +7,10 @@ const SobreMi = () => {
     return (
         <section className="backGroundSobreMi">
             <div className="presentation">
-                <h3>Hi</h3>
-                <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+                <h2>Hi👋</h2>
+                <p>Mi nombre es Alejo, estudié psicología en la UBA por tres años hasta que descubrí mi verdadera pasión, la programación. Desde hace más de dos años que soy estudiante autodidacta, también me forme como desarrollador full stack en la Universidad Tecnológica Nacional (UTN). Soy un amante de la tecnología y del aprendizaje constante.  
                 </p>
-            </div>
-            <div className="containerTecnologies">
-                <h3>Tecnologias que manejo</h3>
+                <h2>Tecnologias👨‍💻</h2>
                 <div className="tecnologies">
                     <div>
                         <img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' alt="ImgTecnologie" />

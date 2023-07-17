@@ -1,14 +1,14 @@
 .backGroundSobreMi{
-    height: 975px;
+    height: 600px;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.presentation, .containerTecnologies{
+.presentation{
     width: 900px;
-    height: 420px;
+    height: 510px;
     background-color: #146182;
     color: white;
     margin-top: 30px;
@@ -21,11 +21,6 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 6px;
-}
-
-.containerTecnologies .tecnologies div{
-    width: 120px;
-    margin: 14px;
 }
 
 .tecnologies img{
