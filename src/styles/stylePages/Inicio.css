@@ -1,5 +1,7 @@
 .backGroundInicio{
+    width: 100%;
     height: 832px;
+    width: 100%;
     background-image: url(../../Img/olasBack.jpg);
     background-position-y: center;
 }

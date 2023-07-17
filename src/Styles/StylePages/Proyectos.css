@@ -1,4 +1,5 @@
 .backGroundProyectos{
+    width: 100%;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-wrap: wrap;
