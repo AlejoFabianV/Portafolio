@@ -1,6 +1,5 @@
 .backGroundSobreMi{
     height: 650px;
-    width: 100%;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-direction: column;
