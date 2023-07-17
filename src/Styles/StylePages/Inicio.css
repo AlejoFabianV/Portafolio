@@ -14,10 +14,12 @@
 }
 
 .downloadCV{
+    width: 250px;
     color:  #2f3c88;
     font-size: 40px;
     display: flex;
-    justify-content: flex-end;
+    float: right;
     padding-right: 50px;
     margin: 0;
 }
+
