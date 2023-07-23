@@ -1,4 +1,5 @@
 .backGroundProyectos{
+    height: 800px;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-wrap: wrap;
@@ -19,6 +20,10 @@
 .cartaProyecto:hover {
     background-color: #faf9fb;
     transform: scale(1.06);
+}
+
+.cartaProyecto a{
+    text-decoration: none;
 }
 
 .cartaProyecto img{
