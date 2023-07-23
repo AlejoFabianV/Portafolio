@@ -42,21 +42,21 @@
 
 @media screen and (max-width: 900px){
     .backGroundSobreMi{
-        height: 800px;
+        height: 1020px;
     }
     .presentation{
         width: 600px;
-        height: 700px;
+        height: 920px;
     }
 }
 
 @media screen and (max-width: 500px){
     .backGroundSobreMi{
-        height: 680px;
+        height: 920px;
     }
     .presentation{
         width: 350px;
-        height: 600px;
+        height: 840px;
     }
     .tecnologies img{
         width: 50px;
