@@ -52,11 +52,11 @@
 
 @media screen and (max-width: 500px){
     .backGroundSobreMi{
-        height: 920px;
+        height: 900px;
     }
     .presentation{
         width: 350px;
-        height: 840px;
+        height: 820px;
     }
     .tecnologies img{
         width: 50px;
