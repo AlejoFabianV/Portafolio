@@ -1,5 +1,5 @@
 .backGroundSobreMi{
-    height: 650px;
+    height: 832px;
     background-image: url(../../Img/olasBack\ \(2\).jpg);
     display: flex;
     flex-direction: column;
@@ -8,12 +8,16 @@
 
 .presentation{
     width: 900px;
-    height: 560px;
+    height: 650px;
     background-color: #146182;
     color: white;
     margin-top: 30px;
     border-radius: 2%;
     padding: 8px 12px;
+}
+
+.presentation p{
+    font-size: 22px;
 }
 
 .tecnologies{

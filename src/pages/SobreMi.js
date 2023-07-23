@@ -7,8 +7,8 @@ const SobreMi = () => {
     return (
         <section className="backGroundSobreMi">
             <div className="presentation">
-                <h2>Hi👋</h2>
-                <p>Mi nombre es Alejo, estudié psicología en la UBA por tres años hasta que descubrí mi verdadera pasión, la programación. Desde hace más de dos años que soy estudiante autodidacta, también me forme como desarrollador full stack en la Universidad Tecnológica Nacional (UTN). Soy un amante de la tecnología y del aprendizaje constante.  
+                <h2>Hola👋</h2>
+                <p>Mi nombre es Alejo, estudié psicología en la UBA por tres años hasta que descubrí mi verdadera pasión, la programación. Desde hace más de dos años que soy estudiante autodidacta, también me forme como desarrollador full stack en la Universidad Tecnológica Nacional (UTN). Soy un amante de la tecnología, del aprendizaje constante, en busca de desafios y de dar mis primeros pasos en el mundo IT.
                 </p>
                 <h2>Tecnologias👨‍💻</h2>
                 <div className="tecnologies">
