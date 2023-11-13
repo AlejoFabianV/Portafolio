@@ -1,7 +1,6 @@
 import React from "react";
 import '../styles/stylePages/SobreMi.css'
 import sqlServerImg from '../Img/SQLserver.png'
-import dotnet from '../Img/dotnet.png'
 
 const SobreMi = () => {
     return (
@@ -55,10 +54,6 @@ const SobreMi = () => {
                     <div>
                         <img src='https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png' alt="ImgTecnologie" />
                         <h4>C#</h4>
-                    </div>
-                    <div>
-                        <img src={dotnet} alt="ImgTecnologie" />
-                        <h4>.NET</h4>
                     </div>
                 </div>
             </div>
