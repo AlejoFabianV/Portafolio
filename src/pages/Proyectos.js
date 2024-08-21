@@ -7,7 +7,7 @@ const Proyectos = () => {
         <section className="backGroundProyectos">
             <div className="cartaProyecto">
                 <h1>Tienda digital de comics/mangas</h1>
-                <h3>React.js, Node,js, Express, CSS, MySQL</h3>
+                <h3>React.js, Node.js, Express, CSS, MySQL</h3>
                 <p>
                     <i class="fa fa-github" aria-hidden="true" /><a href="https://github.com/AlejoFabianV/back-10-anillos" target="blank"> Repo Backend</a>
                     <br />
